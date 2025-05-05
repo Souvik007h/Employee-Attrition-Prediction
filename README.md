@@ -14,8 +14,8 @@ We trained and compared multiple models and deployed the best-performing one as 
 
 ## 🎥 Demo
 
-- 📺 **Watch the demo video here:** [Demo Video Link](#)
-- 🌐 **Live Website:** [Visit Web App](#)
+- 📺 **Watch the demo video here:** [Demo Video Link](https://drive.google.com/file/d/13KXbov-zxXPtZmw0Sup_dgtPj-dE38qx/view?usp=sharing)
+- 🌐 **Live Website:** [Visit Web App](https://souvikh007kv.pythonanywhere.com/)
 
 ---
 
@@ -91,7 +91,7 @@ employee-attrition-prediction/
 
 ## 🧾 Resources
 
-- 📂 **Dataset:** [IBM HR Analytics Dataset on Kaggle](https://www.kaggle.com/datasets)  
+- 📂 **Dataset:** [IBM HR Analytics Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/ibm-attrition-dataset) 
 - 📄 **Report:** See in the repo  
-- 📺 **Demo Video:** [Watch Here](#)
+- 📺 **Demo Video:** [Watch Here](https://drive.google.com/file/d/13KXbov-zxXPtZmw0Sup_dgtPj-dE38qx/view?usp=sharing)
 
